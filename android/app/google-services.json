@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298814361262",
+    "project_id": "brisca-b8871",
+    "storage_bucket": "brisca-b8871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298814361262:android:fe44396a47bc37d28a273f",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUtvkQ9xx69EbssxbgCDuIEfdTLeax0NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

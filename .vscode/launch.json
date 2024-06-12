@@ -1,0 +1,73 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch App",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Nexus 5",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "Nexus_5_API_VanillaIceCream"
+        },
+        {
+            "name": "Nexus 6",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "Nexus_6_API_34"
+        },
+        {
+            "name": "Nexus 7",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "Nexus_7_API_34"
+        },
+        {
+            "name": "Nexus 5X",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "Nexus_5X_API_VanillaIceCream"
+        },
+        {
+            "name": "Nexus 4",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "Nexus_4_API_34"
+        },
+        {
+            "name": "Galaxy",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "4.65_720p_Galaxy_Nexus_API_34"
+        },
+        {
+            "name": "Nexus S",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "Nexus_S_API_34"
+        },
+        {
+            "name": "Flutter (lib\\main.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\main.dart"
+        },
+        {
+            "name": "Flutter (lib\\main.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\main.dart"
+        }
+    ],
+    "compounds": [
+        {
+            "name": "Launch All",
+            "configurations": ["Nexus 5", "Nexus 7", "Nexus 5X", "Nexus S","Nexus 4"]
+        }
+    ]
+}
+
+    
+    
